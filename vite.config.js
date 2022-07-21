@@ -16,7 +16,7 @@ export default {
   build: {
     outDir: BUILD_DIR,
     assetsInlineLimit: 0,
-    emptyOutDir: true,
+    emptyOutDir: false,
     rollupOptions: {
       output: {
         entryFileNames: `assets/[name].js`,

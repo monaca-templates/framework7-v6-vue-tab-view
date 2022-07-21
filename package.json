@@ -1,7 +1,7 @@
 {
     "name": "framework7-v6-vue-tab",
     "private": true,
-    "version": "1.0.0",
+    "version": "2.0.0",
     "scripts": {
         "monaca:preview": "npm run dev & npm run watch",
         "monaca:transpile": "npm run build",
